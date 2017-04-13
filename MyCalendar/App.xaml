@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MyCalendar.App">
+	<Application.Resources>
+		<ResourceDictionary>
+			<Style x:Key="SelectedDayStyle" TargetType="Label">
+				<Setter Property="BackgroundColor" Value="#87CEFA" />
+			</Style>
+			<Style x:Key="CurrentMonthDayStyle" TargetType="Label">
+				<Setter Property="BackgroundColor" Value="#EEEEEE" />
+			</Style>
+			<Style x:Key="OtherMonthDayStyle" TargetType="Label">
+				<Setter Property="BackgroundColor" Value="White" />
+			</Style>
+		</ResourceDictionary>
+	</Application.Resources>
+</Application>

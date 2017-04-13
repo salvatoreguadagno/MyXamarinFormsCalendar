@@ -1,0 +1,12 @@
+Droid/bin
+Droid/obj
+iOS/bin
+iOS/obj
+MyCalendar/bin
+MyCalendar/obj
+MyCalendarTests/bin
+MyCalendarTests/obj
+packages
+MyCalendar.userprefs
+.DS_Store
+AutoTestRunnerConf.xml
